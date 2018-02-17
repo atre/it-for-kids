@@ -52,7 +52,8 @@ This is a prototype of a basic algorithms and programming principles course for 
   - Briefly about [open-source](https://en.wikipedia.org/wiki/Open-source_software)
   - Based on ideas of free learning and information sharing
   - All materials and course structure are free and shared as an open source software with [MIT license](https://en.wikipedia.org/wiki/MIT_License)
-    > *You can start your own course and teach your children at home*
+
+> *You can start your own course and teach your children at home*
 ---
 
 ### Course flow
@@ -217,7 +218,7 @@ This is a prototype of a basic algorithms and programming principles course for 
 > All specialities knowledge can be combined in MANY ways - that's the main point of `development`
 
 - Recap
-> **You can learn just using internet (any device, anywhere), all we need for this is `motivation and clear objectives in learning process`**
+> You can learn just using internet (any device, anywhere), all we need for this is `motivation and clear objectives in learning process`
 
 ### Additional boring course data, schedule ect.
 
@@ -293,7 +294,7 @@ This is a prototype of a basic algorithms and programming principles course for 
   > *When you eat bread `you know` it is made of just some flour, salt and water. When you use your iPhone - you are in a freaking magical world. That's a no-way!*
 
 - #### Recap
-  - **IT is a future and basic IT education is a must-have for modern children**
+  - IT is a future and basic IT education is a must-have for modern children
 
 > ### ☕️ break
 >
@@ -359,21 +360,21 @@ This is a prototype of a basic algorithms and programming principles course for 
 
 ---
 
-## 001 - Hello 🚀 | `~50 min`
+## 001 - Hello 🚀, `~50 min`
 
-- Meet and greet session | `~5 min`
+- Meet and greet session, `~5 min`
   - Names, basic information
 - Introducing the `tools`
   - Web platform overview
-  - User registration for each student | `~10-15 min`
+  - User registration for each student, `~10-15 min`
     - Generating random user pictures with Identicon or any external library
-  - Theory of data storage and basic security | `~5 min`
+  - Theory of data storage and basic security, `~5 min`
     - Concept of `database`
     - Real life examples
-  - Testing, looking at teacher's dashboard | `~5 min`
+  - Testing, looking at teacher's dashboard, `~5 min`
     - Concept of `admin panel`
   - Connecting to a webapp from home
-- Chill talk motivation session about possibilities in life and stuff | `~20 min`
+- Chill talk motivation session about possibilities in life and stuff, `~20 min`
 
 - Homework
   - Connect to a web-application from home
