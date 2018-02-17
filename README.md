@@ -19,3 +19,5 @@ This is a prototype of a course for kids `8-12 years` old into basic algorithms 
 > ![Rabbit](https://atre.github.io/it-for-kids/images/header-rabbit.jpg)
 >
 > *- Oh dear, I shall be too late*
+
+Art by [CatalinPrecup](https://www.deviantart.com/art/The-Subway-Follow-the-White-Rabbit-443987628)

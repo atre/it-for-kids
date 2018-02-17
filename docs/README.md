@@ -2,7 +2,7 @@
 
 ## About this course
 
-This is a prototype of a course for kids `8-12 years` old into basic algorithms and programming principles
+This is a prototype of a basic algorithms and programming principles course for kids `aged 8-12`
 
 > Currently in `early development` state
 
@@ -19,7 +19,7 @@ This is a prototype of a course for kids `8-12 years` old into basic algorithms 
 
 ## Introduction
 
-> Quick introduction for parents who always in rush
+> Quick introduction for parents who are always in a rush
 
 ---
 
@@ -30,7 +30,7 @@ This is a prototype of a course for kids `8-12 years` old into basic algorithms 
 - #### Introduce myself, tell them how I'm powerful and cool
 
 - #### About the course `early development state` and possible issues
-  - Sessions can be quite unpersistent
+  - Sessions can be quite non-regular
   - Material structure can change on the go (*not sure that's bad actually*)
 
 - #### About importance of visiting `Basic IT with parents` module
@@ -39,7 +39,7 @@ This is a prototype of a course for kids `8-12 years` old into basic algorithms 
   - Always learn
   - Newer use old stuff
   - Always look forward
-  - Change environment to grow
+  - Constantly change environment to grow
   - Analyze all the data
 
 - #### My interest
@@ -52,7 +52,7 @@ This is a prototype of a course for kids `8-12 years` old into basic algorithms 
   - Briefly about [open-source](https://en.wikipedia.org/wiki/Open-source_software)
   - Based on ideas of free learning and information sharing
   - All materials and course structure are free and shared as open source software with [MIT license](https://en.wikipedia.org/wiki/MIT_License)
-  > *You can start your own course and teach your children at home*
+    > *You can start your own course and teach your children at home*
 ---
 
 ### Course flow
@@ -66,8 +66,8 @@ This is a prototype of a course for kids `8-12 years` old into basic algorithms 
     - Because you `always` need to `know what you doing`
   - Explore basic algorithms
     - Because you need to `orient in this information mess`
-  - Analytical mindset
-    - We never memorize - we learn how resolve situations
+  - Work on analytical mindset
+    - We never learn by heart - we learn how to resolve situations
 
 - #### Working with information
   - Learn how you can analyze information and make decisions
@@ -76,10 +76,10 @@ This is a prototype of a course for kids `8-12 years` old into basic algorithms 
 
 - #### Practical skills
   - Explore and improve custom created coding block application
-  - Basics of software development using modern [Javascript](https://www.javascript.com)
-  - How to sit and type properly, touch typing games and motivation
-  - Programming language syntax, application architecture concepts
-  - Basics of micro-controller development
+  - Learn basics of software development using modern [Javascript](https://www.javascript.com)
+  - Know how to sit and type properly, touch typing games and motivation
+  - Learn programming language syntax, application architecture concepts
+  - Explore basics of micro-controller development
 
 - #### Knowledge
   - Knowledge of internet architecture
@@ -87,29 +87,29 @@ This is a prototype of a course for kids `8-12 years` old into basic algorithms 
   - Information about different programming languages and frameworks
   - Design basics and design tools usage
 
-**Ok, how we going to do this?**
+**Ok, how are we going to do this?**
 
 - #### Interactive playground
-  - Web-application with a [Google Blockly](https://developers.google.com/blockly) environment
+  - Web-application with [Google Blockly](https://developers.google.com/blockly) environment
   - Web, desktop and mobile versions
   - You can work on your learning projects from home
 - #### Motivation via gamification
-  - Points, badges and statistics-based workflow in a fun and motivational form
+  - Points, badges and statistics-based workflow in an entertaining, motivational way
   - Personal web-pages with achievements and ratings
 - #### Robots
-  - Block programming with Lego Boost
-  - Advanced robotics projects with Lego EV3
+  - Block programming with `Lego Boost`
+  - Advanced robotics projects with `Lego EV3`
 
   - Projects
     - Full-scale project on one of chosen LEGO Boost models, full feature usage, programming multiple behaviors
     - Advanced robot-constructor with Lego EV3. Creation of an interactive robot-helper using advanced desktop code block editor
 
 - #### IoT (Internet of Things)
-  - Microcomputers nowadays are small as your credit card
+  - Microcomputers that are as are small as your credit card nowadays
   - Using microcomputers in smart-devices and wearable electronics
   - Arduino and RaspberryPi fun projects
   - Different sensors and expansions to play with
-    - Fingerprint, touchpad, buttons sensors
+    - Fingerprints, touchpad, buttons sensors
     - LCD screen panels, touchscreen
     - Sound sensors
     - Cameras - HD, infrared
@@ -118,12 +118,12 @@ This is a prototype of a course for kids `8-12 years` old into basic algorithms 
     - and many more
 
   - Projects
-    - Create a night vision camera with movement sensor
-    - Create a home climate station with such set of features
+    - Creating a night vision camera with movement sensor
+    - Creating a home climate station with such set of features
       - Temperature
       - Humidity
       - Magnetic field
-    - Syncronize home climate station with mobile application so you can monitor data remotely
+    - Syncronizing home climate station with mobile application so you can monitor data remotely
 
 - ### Project management
 
@@ -163,14 +163,14 @@ This is a prototype of a course for kids `8-12 years` old into basic algorithms 
 
   - or it can be a custom project using external services
 
-- You can take your hardware project home and work whenever you want
+- You can take your hardware project home or work whenever you want
 - Parental control
   - Notifications on children activity (email, sms etc.)
   - Community base support with social application and chat
 
 ### Perspectives as motivation
 
-> He can beat your salary in 16
+> *He can beat your salary at 16*
 
 - #### About IT sector in brief
   - Local sector overview
@@ -236,7 +236,7 @@ This is a prototype of a course for kids `8-12 years` old into basic algorithms 
 
 ### Full-featured distant education
 
-- Using web-application from home
+- Stay updated with progressive web-application
 - Live video conferences
 - Instant feedback and help during lessons
 - Get your hardware kit via mail
@@ -247,23 +247,23 @@ This is a prototype of a course for kids `8-12 years` old into basic algorithms 
 
 ### About IT
 
-> *Your microwave's drivers written in Java*
+> *Your microwave's drivers are written in Java*
 
 - #### IT in everyday life
   - Internet and phone addiction for parents
   - Constant internet access as a life-changing factor
 
 - #### 'Hidden' IT
-  - All the stuff around you has some software, it's like soul man
+  - All the stuff around you has some software
   - Many possibilities to grow - you can develop microwaves or space rockets
 
 - #### Understanding of `progress importance`
   - 5, 10, 20 yearn ago and NOW, what will be in 5 years?
   - IT is the future
-    - About current news like frying cars etc.
+    - About current news like flying cars etc.
   - Great possibilities to research
     - Land of discovery
-    - You can create a robot who build another robot who build stuff anyone never built before! [Don't do it though](https://en.wikipedia.org/wiki/Grey_goo)
+    - You can create a robot who can build another robot who can build stuff anyone never built before! [Don't do it though](https://en.wikipedia.org/wiki/Grey_goo)
   - Being `progressive` is a must-have nowadays
 
 - #### People of IT
@@ -286,13 +286,13 @@ This is a prototype of a course for kids `8-12 years` old into basic algorithms 
       - Some local successful startups
 
 - #### Survival skills
-  - You can not live productive without basic IT skills - that's a fact
+  - You can not live productive life without basic IT skills - that's a fact
   - About IT and travel - NFC, wending machines, automation etc
   - Basic knowledge
-    - > When you eat bread you know this is just some flour, eggs and water. When you use your iPhone - you are in a freaking magical world. That's a no-way!
+  > *When you eat bread `you know` it is made of just some flour, salt and water. When you use your iPhone - you are in a freaking magical world. That's a no-way!*
 
 - #### Recap
-  - **IT is a future and basic IT education is a must-have for a modern children**
+  - **IT is a future and basic IT education is a must-have for modern children**
 
 > ### ☕️ break
 >
@@ -309,24 +309,24 @@ This is a prototype of a course for kids `8-12 years` old into basic algorithms 
     - Too much information and related stress
 
   - Information around your children
-    - About importance and inevitability of first internet access
+    - About importance and inevitability of the first internet access
     - `Do not manipulate - teach`
     - `Do not block` - control and discuss
-    - About first impression and how to read it
+    - About the first impression and how to read it
 
 - About uncontrollable information access
   - Too much ways to get internet access, blocking is no-way
   - Teach basic internet etiquette
-  - Your kid probably saw more anal porn than you, control the information flow bro
   - It will happen anyways so you just need to take control and be smarter
 
 - Monitoring
-  - Traffic flow monitoring PLACEHOLDER
+  - What is behavioral monitoring and reseach?
+  - Quick on web-traffic flow and monitoring
 
 - Blocking
   - `LIMITING ANYONE'S FREEDOM IN ANY WAY IS VERY BAD`
   - `NEVER` try to manipulate or block disagreeable content
-  - Block `ONLY` NSWF content
+  - Block `ONLY` NSFW content
   - Do not be a bad guy, use only in `specific` cases
   - Briefly about [net neutrality](https://en.wikipedia.org/wiki/Net_neutrality)
 
@@ -341,7 +341,7 @@ This is a prototype of a course for kids `8-12 years` old into basic algorithms 
 
   - Analysis
     - Analysis as a must-have skill
-    - About analysis as a filter for data children receive on daily basis
+    - About analysis as a filter of data children receive on daily basis
     - About amount of information and how important to filter it not to loose focus
 
   - Concentration
@@ -352,12 +352,41 @@ This is a prototype of a course for kids `8-12 years` old into basic algorithms 
 
 - Planning and decision-making
 
+<!-- END of OPTIONAL: Basic IT with parents -->
+
+## Modules
+
+---
+
+## 001 - Hello 🚀 | `~50 min`
+
+- Meet and greet session | `~5 min`
+  - Names, basic information
+- Introducing the `tools`
+  - Web platform overview
+  - User registration for each student | `~10-15 min`
+    - Generating random user pictures with Identicon or any external library
+  - Theory of data storage | `~5 min`
+    - Concept of `database`
+    - Real life examples
+  - Testing, looking at teacher's dashboard | `~5 min`
+    - Concept of `admin panel`
+  - Connecting from home example
+- Chill talk motivation session about possibilities in life and stuff | `~20 min`
+
+- Homework
+  - Connect to a wep-application from home
+  - Login with your credentials
+  - Complete a check-in
+
 ### About course
 
 > Course is splitted into `modules`
 
-- Introduction
-- IT basics with parents
+- Introduction (with parents)
+- IT basics with parents (with parents)
+
+- Module 001: Hello 🚀
 
 ### Technologies used in a learning process
 
@@ -383,3 +412,7 @@ This is a prototype of a course for kids `8-12 years` old into basic algorithms 
 - Personal and can-take-home hardware, you can buy personal set (~$20)
   - Raspberry Pi Zero + modules
   - Arduino UNO + modules
+
+---
+
+Art by [CatalinPrecup](https://www.deviantart.com/art/The-Subway-Follow-the-White-Rabbit-443987628)
