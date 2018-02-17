@@ -10,7 +10,7 @@ This is a prototype of a course for kids `8-12 years` old into basic algorithms 
 
 ---
 
-[Course web-documentation]('https://github.com/atre/it-for-kids/tree/master/docs')
+[Course web-documentation]('/tree/master/docs')
 
 ---
 
