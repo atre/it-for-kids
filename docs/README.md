@@ -33,7 +33,7 @@ This is a prototype of a basic algorithms and programming principles course for 
   - Sessions can be quite non-regular
   - Material structure can change on the go (*not sure that's bad actually*)
 
-- #### About importance of visiting `Basic IT with parents` module
+- #### About importance of visiting `IT Basics with parents` module
 
 - #### My vision of learning
   - Always learn
@@ -51,7 +51,7 @@ This is a prototype of a basic algorithms and programming principles course for 
 - #### This course is an open-source software
   - Briefly about [open-source](https://en.wikipedia.org/wiki/Open-source_software)
   - Based on ideas of free learning and information sharing
-  - All materials and course structure are free and shared as open source software with [MIT license](https://en.wikipedia.org/wiki/MIT_License)
+  - All materials and course structure are free and shared as an open source software with [MIT license](https://en.wikipedia.org/wiki/MIT_License)
     > *You can start your own course and teach your children at home*
 ---
 
@@ -59,11 +59,11 @@ This is a prototype of a basic algorithms and programming principles course for 
 
 > *First startup at 8? Easy*
 
-**So, what we are going to improve?**
+**So, what are we going to improve?**
 
 - #### Basic skills
   - Learn logic
-    - Because you `always` need to `know what you doing`
+    - Because you `always` need to `know what you are doing`
   - Explore basic algorithms
     - Because you need to `orient in this information mess`
   - Work on analytical mindset
@@ -105,7 +105,7 @@ This is a prototype of a basic algorithms and programming principles course for 
     - Advanced robot-constructor with Lego EV3. Creation of an interactive robot-helper using advanced desktop code block editor
 
 - #### IoT (Internet of Things)
-  - Microcomputers that are as are small as your credit card nowadays
+  - Microcomputers that are as small as your credit card nowadays
   - Using microcomputers in smart-devices and wearable electronics
   - Arduino and RaspberryPi fun projects
   - Different sensors and expansions to play with
@@ -115,7 +115,7 @@ This is a prototype of a basic algorithms and programming principles course for 
     - Cameras - HD, infrared
     - Distance, color, obstacle sensors
     - Motion sensors, accelerometers and gyroscopes
-    - and many more
+    - and many others
 
   - Projects
     - Creating a night vision camera with movement sensor
@@ -207,6 +207,7 @@ This is a prototype of a basic algorithms and programming principles course for 
       - Automation
       - Network architecture
       - Deployment and orchestration
+    - Information security specialist 🕵🏻‍♂️
     - Tester and quality assurance specialist 🔍
     - Technical writer and translator 👩‍💻
     - Web designer 🎨
@@ -241,7 +242,7 @@ This is a prototype of a basic algorithms and programming principles course for 
 - Instant feedback and help during lessons
 - Get your hardware kit via mail
 
-## OPTIONAL: Basic IT with parents
+## OPTIONAL: IT Basics with parents
 
 > A bit deeper into IT as an industry
 
@@ -352,7 +353,7 @@ This is a prototype of a basic algorithms and programming principles course for 
 
 - Planning and decision-making
 
-<!-- END of OPTIONAL: Basic IT with parents -->
+<!-- END of OPTIONAL: IT Basics with parents -->
 
 ## Modules
 
@@ -366,16 +367,16 @@ This is a prototype of a basic algorithms and programming principles course for 
   - Web platform overview
   - User registration for each student | `~10-15 min`
     - Generating random user pictures with Identicon or any external library
-  - Theory of data storage | `~5 min`
+  - Theory of data storage and basic security | `~5 min`
     - Concept of `database`
     - Real life examples
   - Testing, looking at teacher's dashboard | `~5 min`
     - Concept of `admin panel`
-  - Connecting from home example
+  - Connecting to a webapp from home
 - Chill talk motivation session about possibilities in life and stuff | `~20 min`
 
 - Homework
-  - Connect to a wep-application from home
+  - Connect to a web-application from home
   - Login with your credentials
   - Complete a check-in
 
@@ -384,7 +385,7 @@ This is a prototype of a basic algorithms and programming principles course for 
 > Course is splitted into `modules`
 
 - Introduction (with parents)
-- IT basics with parents (with parents)
+- IT Basics with parents
 
 - Module 001: Hello 🚀
 
