@@ -6,7 +6,7 @@ This is a prototype of a course for kids `8-12 years` old into basic algorithms 
 
 > Currently in `early development` state
 
-> ![Rabbit](/docs/images/header-rabbit.jpg)
+> ![Rabbit](/it-for-kids/images/header-rabbit.jpg)
 >
 > *- Oh dear, I shall be too late*
 
