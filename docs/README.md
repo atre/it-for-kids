@@ -2,10 +2,10 @@
 
 ## About this course
 
-This is a prototype of a basic algorithms and programming principles course for kids `aged 8-12`
+Basic algorithms and programming principles for kids aged 8-12
 
-> Currently in `early development` state
-
+> Currently is in `development` state
+>
 > ![Rabbit](https://atre.github.io/it-for-kids/images/header-rabbit.jpg)
 >
 > *- Oh dear, I shall be too late*
@@ -27,104 +27,112 @@ This is a prototype of a basic algorithms and programming principles course for 
 
 > Learning in 2018 is `fun and free`, all you need is a proper `motivation` and clear `objectives to follow`
 
-- #### Introduce myself, tell them how I'm powerful and cool
+1. #### Introduce myself, tell them how I'm powerful and cool
 
-- #### About the course `early development state` and possible issues
-  - Sessions can be quite non-regular
-  - Material structure can change on the go (*not sure that's bad actually*)
+2. #### About the course `early development state` and possible issues
 
-- #### About importance of visiting `IT Basics with parents` module
+- Sessions can be quite non-regular
+- Material structure can change on the go (*not sure that's bad actually*)
 
-- #### My vision of learning
-  - Always learn
-  - Newer use old stuff
-  - Always look forward
-  - Constantly change environment to grow
-  - Analyze all the data
+3. #### About importance of visiting `IT Basics with parents` module
 
-- #### My interest
-  - Son education
-  - IT related
-  - New sphere to grow
-  - Full project control
+4. #### My vision of learning
 
-- #### This course is an open-source software
-  - Briefly about [open-source](https://en.wikipedia.org/wiki/Open-source_software)
-  - Based on ideas of free learning and information sharing
-  - All materials and course structure are free and shared as an open source software with [MIT license](https://en.wikipedia.org/wiki/MIT_License)
+- Always learn
+- Newer use old stuff
+- Always look forward
+- Constantly change environment to grow
+- Analyze all the data
+
+5. #### My interest
+
+- Son education
+- IT related
+- New sphere to grow
+- Full project control
+
+6. #### This course is an open-source software
+
+- Briefly about [open-source](https://en.wikipedia.org/wiki/Open-source_software)
+- Based on ideas of free learning and information sharing
+- All materials and course structure are free and shared as an open source software with [MIT license](https://en.wikipedia.org/wiki/MIT_License)
 
 > *You can start your own course and teach your children at home*
+
 ---
 
 ### Course flow
 
 > *First startup at 8? Easy*
 
-**So, what are we going to improve?**
+#### **So, what are we going to improve?**
 
-- #### Basic skills
-  - Learn logic
-    - Because you `always` need to `know what you are doing`
-  - Explore basic algorithms
-    - Because you need to `orient in this information mess`
-  - Work on analytical mindset
-    - We never learn by heart - we learn how to resolve situations
+1. #### Basic skills
 
-- #### Working with information
-  - Learn how you can analyze information and make decisions
-  - Analyze and reproduce data on a real-life examples
-  - Understand the importance of consequences
+- Learn logic
+  > Because you `always` need to `know what you are doing`
+- Explore basic algorithms
+  > Because you need to `orient in this information mess`
+- Work on analytical mindset
+  > We never learn by heart - we learn how to resolve situations
 
-- #### Practical skills
-  - Explore and improve custom created coding block application
-  - Learn basics of software development using modern [Javascript](https://www.javascript.com)
-  - Know how to sit and type properly, touch typing games and motivation
-  - Learn programming language syntax, application architecture concepts
-  - Explore basics of micro-controller development
+2. #### Working with information
+
+- Learn how you can analyze information and make decisions
+- Analyze and reproduce data on a real-life examples
+- Understand the importance of consequences
+
+3.  #### Practical skills
+
+> - Explore and improve custom created coding block application
+> - Learn basics of software development using modern [Javascript](https://www.javascript.com)
+> - Know how to sit and type properly, touch typing games and motivation
+> - Learn programming language syntax, application architecture concepts
+> - Explore basics of micro-controller development
 
 - #### Knowledge
-  - Knowledge of internet architecture
-  - Concept ideas of servers and clouds
-  - Information about different programming languages and frameworks
-  - Design basics and design tools usage
+- Knowledge of internet architecture
+- Concept ideas of servers and clouds
+- Information about different programming languages and frameworks
+- Design basics and design tools usage
 
 **Ok, how are we going to do this?**
 
 - #### Interactive playground
-  - Web-application with [Google Blockly](https://developers.google.com/blockly) environment
-  - Web, desktop and mobile versions
-  - You can work on your learning projects from home
+- Web-application with [Google Blockly](https://developers.google.com/blockly) environment
+- Web, desktop and mobile versions
+- You can work on your learning projects from home
 - #### Motivation via gamification
-  - Points, badges and statistics-based workflow in an entertaining, motivational way
-  - Personal web-pages with achievements and ratings
+- Points, badges and statistics-based workflow in an entertaining, motivational way
+- Personal web-pages with achievements and ratings
 - #### Robots
-  - Block programming with `Lego Boost`
-  - Advanced robotics projects with `Lego EV3`
+- Block programming with `Lego Boost`
+- Advanced robotics projects with `Lego EV3`
 
-  - Projects
-    - Full-scale project on one of chosen LEGO Boost models, full feature usage, programming multiple behaviors
-    - Advanced robot-constructor with Lego EV3. Creation of an interactive robot-helper using advanced desktop code block editor
+- Projects
+  - Full-scale project on one of chosen LEGO Boost models, full feature usage, programming multiple behaviors
+  - Advanced robot-constructor with Lego EV3. Creation of an interactive robot-helper using advanced desktop code block editor
 
 - #### IoT (Internet of Things)
-  - Microcomputers that are as small as your credit card nowadays
-  - Using microcomputers in smart-devices and wearable electronics
-  - Arduino and RaspberryPi fun projects
-  - Different sensors and expansions to play with
-    - Fingerprints, touchpad, buttons sensors
-    - LCD screen panels, touchscreen
-    - Sound sensors
-    - Cameras - HD, infrared
-    - Distance, color, obstacle sensors
-    - Motion sensors, accelerometers and gyroscopes
-    - and many others
+- Microcomputers that are as small as your credit card nowadays
+- Using microcomputers in smart-devices and wearable electronics
+- Arduino and RaspberryPi fun projects
+- Different sensors and expansions to play with
+  - Fingerprints, touchpad, buttons sensors
+  - LCD screen panels, touchscreen
+  - Sound sensors
+  - Cameras - HD, infrared
+  - Distance, color, obstacle sensors
+  - Motion sensors, accelerometers and gyroscopes
+  - and many others
 
-  - Projects
-    - Creating a night vision camera with movement sensor
-    - Creating a home climate station with such set of features
-      - Temperature
-      - Humidity
-      - Magnetic field
-    - Syncronizing home climate station with mobile application so you can monitor data remotely
+- Projects
+  - Creating a night vision camera with movement sensor
+  - Creating a home climate station with such set of features
+    - Temperature
+    - Humidity
+    - Magnetic field
+  - Syncronizing home climate station with mobile application so you can monitor data remotely
 
 - ### Project management
 
@@ -220,7 +228,7 @@ This is a prototype of a basic algorithms and programming principles course for 
 - Recap
 > You can learn just using internet (any device, anywhere), all we need for this is `motivation and clear objectives in learning process`
 
-### Additional boring course data, schedule ect.
+### Additional boring course data, schedule ect
 
 <!-- END of Introduction -->
 
